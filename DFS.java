@@ -5,7 +5,7 @@ import java.util.*;
 // b) practice dijkstras, inefficient first
 // c) CCC 23 S3
 
-public class Main {
+public class DFS {
     // n m
     // 1 2
     // 5 6
